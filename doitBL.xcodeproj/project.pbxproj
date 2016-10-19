@@ -460,7 +460,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "0087954a-2a2e-4e6d-89a6-0fe2e35fc5df";
+				PROVISIONING_PROFILE = "0aa8e73e-bd75-4aba-b5f5-2dfca14066a0";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -500,7 +500,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "0087954a-2a2e-4e6d-89a6-0fe2e35fc5df";
+				PROVISIONING_PROFILE = "0aa8e73e-bd75-4aba-b5f5-2dfca14066a0";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -519,8 +519,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aidian.InlitWT;
 				PRODUCT_NAME = doitBL;
-				PROVISIONING_PROFILE = "4f4370fc-6315-4ac0-b98c-f70c5392fbbf";
-				PROVISIONING_PROFILE_SPECIFIER = "InlitWT开发证书";
+				PROVISIONING_PROFILE = "a759b19b-9aa1-4889-b8ce-1bc85732956d";
+				PROVISIONING_PROFILE_SPECIFIER = AiDIanForAll;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -538,8 +538,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aidian.InlitWT;
 				PRODUCT_NAME = doitBL;
-				PROVISIONING_PROFILE = "0087954a-2a2e-4e6d-89a6-0fe2e35fc5df";
-				PROVISIONING_PROFILE_SPECIFIER = "XC iOS Ad Hoc: com.aidian.InlitWT";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = JenkinsBulid;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
