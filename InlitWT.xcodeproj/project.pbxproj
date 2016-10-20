@@ -87,7 +87,7 @@
 		18082A6B1B60F472003CAEC0 /* sign04@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sign04@2x.png"; sourceTree = "<group>"; };
 		18082A6C1B60F472003CAEC0 /* sign05@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sign05@2x.png"; sourceTree = "<group>"; };
 		18082A6D1B60F472003CAEC0 /* sign06@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sign06@2x.png"; sourceTree = "<group>"; };
-		1862DFE31A593A28002C5F66 /* doitBL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = doitBL.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1862DFE31A593A28002C5F66 /* InlitWT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InlitWT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1862DFE71A593A28002C5F66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1862DFE81A593A28002C5F66 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1862DFEA1A593A28002C5F66 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -179,7 +179,7 @@
 		1862DFE41A593A28002C5F66 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1862DFE31A593A28002C5F66 /* doitBL.app */,
+				1862DFE31A593A28002C5F66 /* InlitWT.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -275,9 +275,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1862DFE21A593A28002C5F66 /* doitBL */ = {
+		1862DFE21A593A28002C5F66 /* InlitWT */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1862E0061A593A28002C5F66 /* Build configuration list for PBXNativeTarget "doitBL" */;
+			buildConfigurationList = 1862E0061A593A28002C5F66 /* Build configuration list for PBXNativeTarget "InlitWT" */;
 			buildPhases = (
 				1862DFDF1A593A28002C5F66 /* Sources */,
 				1862DFE01A593A28002C5F66 /* Frameworks */,
@@ -287,9 +287,9 @@
 			);
 			dependencies = (
 			);
-			name = doitBL;
+			name = InlitWT;
 			productName = wenyeBLE;
-			productReference = 1862DFE31A593A28002C5F66 /* doitBL.app */;
+			productReference = 1862DFE31A593A28002C5F66 /* InlitWT.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -308,7 +308,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1862DFDE1A593A28002C5F66 /* Build configuration list for PBXProject "doitBL" */;
+			buildConfigurationList = 1862DFDE1A593A28002C5F66 /* Build configuration list for PBXProject "InlitWT" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -321,7 +321,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1862DFE21A593A28002C5F66 /* doitBL */,
+				1862DFE21A593A28002C5F66 /* InlitWT */,
 			);
 		};
 /* End PBXProject section */
@@ -520,7 +520,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aidian.InlitWT;
-				PRODUCT_NAME = doitBL;
+				PRODUCT_NAME = InlitWT;
 				PROVISIONING_PROFILE = "fa9715bc-9d96-44dc-b99c-0a15ad80e8a4";
 				PROVISIONING_PROFILE_SPECIFIER = "InlitWT开发证书";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -539,7 +539,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aidian.InlitWT;
-				PRODUCT_NAME = doitBL;
+				PRODUCT_NAME = InlitWT;
 				PROVISIONING_PROFILE = "0107f551-bdfe-4136-a217-96705d3559e9";
 				PROVISIONING_PROFILE_SPECIFIER = JenkinsBulid;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -549,7 +549,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1862DFDE1A593A28002C5F66 /* Build configuration list for PBXProject "doitBL" */ = {
+		1862DFDE1A593A28002C5F66 /* Build configuration list for PBXProject "InlitWT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1862E0041A593A28002C5F66 /* Debug */,
@@ -558,7 +558,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1862E0061A593A28002C5F66 /* Build configuration list for PBXNativeTarget "doitBL" */ = {
+		1862E0061A593A28002C5F66 /* Build configuration list for PBXNativeTarget "InlitWT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1862E0071A593A28002C5F66 /* Debug */,

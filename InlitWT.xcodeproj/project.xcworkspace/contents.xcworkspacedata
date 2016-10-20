@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:doitBL.xcodeproj">
+      location = "self:/Users/chenshuangchao/Documents/wenyeBLE/InlitWT.xcodeproj">
    </FileRef>
 </Workspace>
