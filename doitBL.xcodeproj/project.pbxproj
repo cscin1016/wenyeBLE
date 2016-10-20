@@ -436,10 +436,10 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: AiDian Multimedia Technology CO., LTD.";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: AiDian Multimedia Technology CO., LTD.";
+				CODE_SIGN_IDENTITY = "iPhone Developer: zuoqiu chen (D6GRQD457Z)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: zuoqiu chen (D6GRQD457Z)";
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = 7L948M2VJW;
+				DEVELOPMENT_TEAM = VA24JK6GVC;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -460,7 +460,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "4f4370fc-6315-4ac0-b98c-f70c5392fbbf";
+				PROVISIONING_PROFILE = "fa9715bc-9d96-44dc-b99c-0a15ad80e8a4";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 			};
@@ -488,7 +488,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: AiDian Multimedia Technology CO., LTD.";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: AiDian Multimedia Technology CO., LTD.";
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = 7L948M2VJW;
+				DEVELOPMENT_TEAM = VA24JK6GVC;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -501,7 +501,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "0aa8e73e-bd75-4aba-b5f5-2dfca14066a0";
+				PROVISIONING_PROFILE = "0107f551-bdfe-4136-a217-96705d3559e9";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -513,16 +513,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: 双超 陈 (8EET68727Q)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: 双超 陈 (8EET68727Q)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: zuoqiu chen (D6GRQD457Z)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: zuoqiu chen (D6GRQD457Z)";
 				DEVELOPMENT_TEAM = 7L948M2VJW;
 				INFOPLIST_FILE = wenyeBLE/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aidian.InlitWT;
 				PRODUCT_NAME = doitBL;
-				PROVISIONING_PROFILE = "a759b19b-9aa1-4889-b8ce-1bc85732956d";
-				PROVISIONING_PROFILE_SPECIFIER = AiDIanForAll;
+				PROVISIONING_PROFILE = "fa9715bc-9d96-44dc-b99c-0a15ad80e8a4";
+				PROVISIONING_PROFILE_SPECIFIER = "InlitWT开发证书";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -540,7 +540,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aidian.InlitWT;
 				PRODUCT_NAME = doitBL;
-				PROVISIONING_PROFILE = "0aa8e73e-bd75-4aba-b5f5-2dfca14066a0";
+				PROVISIONING_PROFILE = "0107f551-bdfe-4136-a217-96705d3559e9";
 				PROVISIONING_PROFILE_SPECIFIER = JenkinsBulid;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
